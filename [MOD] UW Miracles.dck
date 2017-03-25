@@ -1,0 +1,30 @@
+NAME:[MOD] UW Miracles
+2 [FUT:52] Logic Knot
+1 [RAV:287] Plains
+2 [ROE:59] Deprive
+3 [M11:225] Glacial Fortress
+2 [AVR:20] Entreat the Angels
+4 [5DN:36] Serum Visions
+4 [ZEN:220] Misty Rainforest
+3 [RTR:241] Hallowed Fountain
+4 [RAV:292] Island
+4 [KTK:233] Flooded Strand
+4 [ROE:86] See Beyond
+3 [MMA:197] Aether Vial
+4 [ISD:78] Snapcaster Mage
+4 [CON:15] Path to Exile
+4 [M14:228] Mutavault
+4 [M11:33] Squadron Hawk
+4 [AVR:38] Terminus
+2 [BFZ:29] Gideon, Ally of Zendikar
+2 [ORI:60] Jace, Vryn's Prodigy
+SB: 1 [RTR:231] Pithing Needle
+SB: 2 [MMA:213] Relic of Progenitus
+SB: 2 [ISD:36] Stony Silence
+SB: 2 [EMN:13] Blessed Alliance
+SB: 2 [ZEN:70] Spreading Seas
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 2 [M11:9] Celestial Purge
+SB: 2 [10E:88] Hurkyl's Recall
+LAYOUT MAIN:(1,6)(CMC,false,50)|([KTK:233],[KTK:233],[KTK:233],[KTK:233],[M11:225],[M11:225],[M11:225],[RTR:241],[RTR:241],[RTR:241],[RAV:292],[RAV:292],[RAV:292],[RAV:292],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[M14:228],[M14:228],[M14:228],[M14:228],[RAV:287])([CON:15],[CON:15],[CON:15],[CON:15],[MMA:197],[MMA:197],[MMA:197],[5DN:36],[5DN:36],[5DN:36],[5DN:36])([ORI:60],[ORI:60],[ROE:86],[ROE:86],[ROE:86],[ROE:86],[ISD:78],[ISD:78],[ISD:78],[ISD:78],[M11:33],[M11:33],[M11:33],[M11:33],[ROE:59],[ROE:59],[FUT:52],[FUT:52])([AVR:20],[AVR:20])([BFZ:29],[BFZ:29])([AVR:38],[AVR:38],[AVR:38],[AVR:38])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([EMN:13],[EMN:13],[M11:9],[M11:9],[KLD:40],[KLD:40],[10E:88],[10E:88],[RTR:231],[MMA:213],[MMA:213],[ZEN:70],[ZEN:70],[ISD:36],[ISD:36])
